@@ -1,6 +1,6 @@
 ---
 title: Serverless in brief
-domain: https://articles.kowthasaketh.com/
+domain: https://articles.kowthasaketh.com
 tags: serverless, aws, gcp, beginners 
 slug: serverless-in-brief
 ---
